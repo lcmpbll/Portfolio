@@ -1,29 +1,32 @@
 # _{Portfolio}_
 
-#### By _**{Liam Campbell}**_
+#### By _**Liam Campbell**_
 
-#### _{Brief description of application}_
+#### _A portfolio html web page._
+
+[!An image of some folders] (img/portfolio.jpeg)
 
 ## Technologies Used
 
 * _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* _html_
+* _css_
+* _github_
+* _VS code_
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_This is my portfolio, built using html and css on VS code. It is hosted on github. Along with giving information about me, it also host links so that interested parties can see my work._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Navigate to your desktop in your computer's terminal._
+* _$ git clone https://github.com/lcmpbll/Portfolio_
+* _Navigate to the Portfolio file $ cd Portfolio_
+* _Run on VS code $ code ._
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+
+
 
 ## Known Bugs
 
@@ -32,6 +35,6 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Feel free to reach out on github if you have any issues, questions or concerns._
 
-Copyright (c) _date_ _author name(s)_
+[Copyright] () (c) _05/27/22_ _Liam Campbell_
