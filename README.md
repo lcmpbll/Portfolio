@@ -30,7 +30,7 @@ _This is my portfolio, built using html and css on VS code. It is hosted on gith
 
 ## Known Bugs
 
-* NA
+* :thumbsup:
 
 ## License
 
