@@ -1,10 +1,10 @@
-# _{Portfolio}_
+# _Portfolio_
 
 #### By _**Liam Campbell**_
 
 #### _A portfolio html web page._
 
-[!An image of some folders] (img/portfolio.jpeg)
+![An image of some folders] (img/portfolio.jpeg)
 
 ## Technologies Used
 
