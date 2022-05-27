@@ -8,7 +8,6 @@
 
 ## Technologies Used
 
-* _List all_
 * _html_
 * _css_
 * _github_
