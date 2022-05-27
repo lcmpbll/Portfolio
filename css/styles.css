@@ -1,6 +1,7 @@
 .sidebar {
 	border: 10px solid black;
 	width: 250px;
+	height: 100%;
 	float: left;
 	box-sizing: border-box;
 	margin: auto;
@@ -37,8 +38,6 @@
 	float: center;
 }
 
-li,
-
 .main-body{
 	margin-top: 12px;
 }
@@ -58,14 +57,13 @@ li,
 body {
 	background-color: lightblue;
 }
+
 .high-light{
 	font-family: helvetica;
 }
 
-li,
-
-.websites {
-	animation-duration: 10s;
+p {
+	animation-duration: 3s;
 	animation-name: slidein;
 	animation-iteration-count: 1;
 }
@@ -80,4 +78,8 @@ li,
 		margin-left: 0%;
 		width: 100%;
 	}
+}
+
+.links {
+	text-align: center;
 }
