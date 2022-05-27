@@ -66,3 +66,15 @@ body {
 .high-light{
 	font-family: helvetica;
 }
+
+button{
+	margin: auto;
+}
+
+.animation {
+	-moz-animation-name: initial;
+
+}
+
+li,
+
