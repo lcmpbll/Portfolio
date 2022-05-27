@@ -54,11 +54,6 @@ li,
 	box-sizing: border-box;
 	float: left;
 }
-.img-thumbnail{
-	float: left;
-	width: 30px;
-	height: auto;
-}
 
 body {
 	background-color: lightblue;
@@ -67,14 +62,22 @@ body {
 	font-family: helvetica;
 }
 
-button{
-	margin: auto;
-}
-
-.animation {
-	-moz-animation-name: initial;
-
-}
-
 li,
 
+.websites {
+	animation-duration: 10s;
+	animation-name: slidein;
+	animation-iteration-count: 1;
+}
+
+@keyframes slidein {
+	from {
+		margin-left: 30%;
+		width: 200px;
+	}
+
+	to {
+		margin-left: 0%;
+		width: 100%;
+	}
+}
