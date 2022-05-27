@@ -46,7 +46,7 @@ li,
 .language {
 	float: left;
 	margin-top: 30px;
-	width: 250px;
+	width: 200px;
 	text-align: left;
   margin-left: 5px;
 	margin-right: auto;
@@ -63,6 +63,6 @@ li,
 body {
 	background-color: lightblue;
 }
-.highlight{
+.high-light{
 	font-family: helvetica;
 }
