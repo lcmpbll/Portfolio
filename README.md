@@ -30,11 +30,10 @@ _This is my portfolio, built using html and css on VS code. It is hosted on gith
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* NA
 
 ## License
 
-_Feel free to reach out on github if you have any issues, questions or concerns._
+_Feel free to reach out on [github](https://github.com/lcmpbll) if you have any issues, questions or concerns._
 
 [Copyright](LICENSE) (c) _05/27/22_ _Liam Campbell_
