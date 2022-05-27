@@ -4,7 +4,7 @@
 
 #### _A portfolio html web page._
 
-![An image of some folders] (img/portfolio.jpeg)
+![An image of some folders](img/portfolio.jpeg)
 
 ## Technologies Used
 
@@ -37,4 +37,4 @@ _This is my portfolio, built using html and css on VS code. It is hosted on gith
 
 _Feel free to reach out on github if you have any issues, questions or concerns._
 
-[Copyright] (LICENSE) (c) _05/27/22_ _Liam Campbell_
+[Copyright](LICENSE) (c) _05/27/22_ _Liam Campbell_
